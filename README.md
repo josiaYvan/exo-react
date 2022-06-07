@@ -6,5 +6,5 @@ App2.js reflete la liaison des composants:
 
 
 
-Barre de recherche avec react:
+Barre de recherche avec react: Recherche.js
 ![image](https://user-images.githubusercontent.com/99858008/172444929-397c74fa-54f1-46cf-b445-d36427d06cfb.png)
